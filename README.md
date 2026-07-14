@@ -11,9 +11,9 @@ Watermarked video assets for the complex-constrained HFSP carrier-aircraft sorti
 
 ## 项目说明 · Project statement
 
-本视频资源库由 **大连理工大学吴光宇与教师团队** 制作，用于相关论文研究成果的可视化展示，暂作为论文 Demo 发布。
+本视频资源库由 **大连理工大学吴光宇在导师与师兄指导下制作**，用于相关论文研究成果的可视化展示，暂作为论文 Demo 发布。
 
-This video archive was produced by **Guangyu Wu and the faculty research team at Dalian University of Technology** as a visual demonstration of the associated research work and is currently published as a paper demo.
+This video archive was produced by **Guangyu Wu at Dalian University of Technology under the guidance of his academic advisor and senior lab colleagues** as a visual demonstration of the associated research work and is currently published as a paper demo.
 
 ## 在线播放 · Watch online
 
