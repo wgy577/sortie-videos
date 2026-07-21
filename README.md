@@ -39,3 +39,9 @@ Select **Play** to watch the corresponding video in your browser. Every publishe
 公开 MP4 由本地保留的原始视频通过 [`apply_watermarks.sh`](apply_watermarks.sh) 生成。水印直接烧录在视频帧中，并非可以单独关闭的字幕或元数据图层。
 
 Published MP4 files are generated from locally preserved originals with [`apply_watermarks.sh`](apply_watermarks.sh). The watermark is burned directly into the video frames rather than stored as a removable subtitle or metadata layer.
+
+## 数据、素材与用途声明 · Data, assets, and use
+
+本仓库中的视频由科研仿真、训练结果与项目可视化生成，仅用于论文 Demo、学术交流和非商业项目展示，不代表真实装备性能、实际作业过程或安全结论。视频版权归作者所有；未经许可不得去除水印、重新上传、再分发或用于商业宣传。
+
+These videos are generated from research simulations, training outputs, and project visualizations. They are provided for paper demos, academic communication, and non-commercial showcase use only, and must not be interpreted as real operational data or safety evidence. Redistribution, watermark removal, or commercial reuse requires permission.
